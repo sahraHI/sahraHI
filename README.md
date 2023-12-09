@@ -1,4 +1,4 @@
 -  Hi, I’m sahra
 -  I’m interested in AI and Dara science
--  I know c, c++, python languages
--  I'm working on a new Python project and learning about Databases
+-  I know c, c++, java languages
+-  I'm learning web development 
